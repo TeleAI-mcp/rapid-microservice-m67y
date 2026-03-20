@@ -1,2 +1,3 @@
-# rapid-microservice-m67y
-Automated issue comment bot repository
+# Rapid Microservice M67Y
+
+Automated issue comment bot repository.
